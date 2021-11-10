@@ -1,1 +1,1 @@
-This is a bare bones HTML structure to test my skills.
+This is a bare bones HTML structure to get back in touch
